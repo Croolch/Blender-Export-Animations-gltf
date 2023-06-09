@@ -1,10 +1,12 @@
 # Blender-Export-Animations-gltf
 
-## What's this?
+🎬 🎬 🎬 
+
+## What's this
 
 export blender animations as glb files, each action data each glb file
 
-## Instruction
+## How to use
 
 1. Paste code in blender_export.py to Blender Scripting window
 2. Edit code to specify the armature you want to export and where to save output
