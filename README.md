@@ -1,6 +1,8 @@
 # Blender-Export-Animations-gltf
 
-🎬 🎬 🎬 
+🎬 🎬 🎬
+
+⚠️ Tested on Blender 3.4.1
 
 ## What's this
 
